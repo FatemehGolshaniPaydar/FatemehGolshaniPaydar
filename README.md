@@ -1,9 +1,6 @@
-## Hi there 👋
-
 <!--
 **FatemehGolshaniPaydar/FatemehGolshaniPaydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 <h1 align="center">Hi 👋, I'm Fatemeh</h1>
 <h3 align="center">A full-stack developer</h3>
@@ -31,5 +28,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatemehgolshanipaydar&show_icons=true&locale=en" alt="fatemehgolshanipaydar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehgolshanipaydar&" alt="fatemehgolshanipaydar" /></p>
-
--->
