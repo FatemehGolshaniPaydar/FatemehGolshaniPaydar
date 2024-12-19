@@ -13,7 +13,7 @@
 
 - 🤝 I'm seeking assistance in enhancing my technical expertise, troubleshooting complex code issues, and engaging in collaborative efforts on open source projects **.**
 
-- 💬 Ask me about = [ Angular, TypeScript, Javascript, RxJS, HTML, CSS, Bootstrap, Git, ...] **;**
+- 💬 Ask me about = [ Angular, TypeScript, C#, .NET, Javascript, RxJS, HTML, CSS, Bootstrap, Git, ...] **;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
