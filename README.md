@@ -9,8 +9,6 @@
 
 - I’m currently developing and maintaining a project management information system (PMIS) web application for managing large industrial projects in the petroleum, gas, and petrochemical industries **.**
 
-- 🌱 I’m currently learning more AWS & CI/CD skills **.**
-
 - 🤝 I'm seeking assistance in enhancing my technical expertise, troubleshooting complex code issues, and engaging in collaborative efforts on open source projects **.**
 
 - 💬 Ask me about = [ Angular, TypeScript, C#, .NET, Javascript, RxJS, HTML, CSS, Bootstrap, Git, ...] **;**
